@@ -1,4 +1,5 @@
 # etcli
+This project is an implementation of the **[Expense Tracker Challenge from roadmap.sh](https://roadmap.sh/projects/expense-tracker)**.
 
 A lightweight command-line expense tracker written in Go using Cobra.
 
